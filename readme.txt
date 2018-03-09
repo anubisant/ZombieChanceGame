@@ -1,0 +1,1 @@
+A simple zombie word game that give's the user the choice of weapons and other activities by chance!
