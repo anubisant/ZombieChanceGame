@@ -4,6 +4,8 @@ alert("Its the zombie apocalypse. You are looting a store and suddenly a zombie 
 
 const weapon = prompt("You are searching for a weapon. What do you choose? Knife, Axe, Frypan?");
 
+//const dessision = prompt("Do you want to run? or stay and fight?");
+
 const randomNumber = Math.round(Math.random());
 
 alert("You attack the zombie with your" + " " + weapon);
